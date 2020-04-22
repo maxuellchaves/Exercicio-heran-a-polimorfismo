@@ -1,0 +1,7 @@
+C:\Users\Mike\source\repos\Exercicio herança e polimorfismo\bin\Debug\Exercicio herança e polimorfismo.exe.config
+C:\Users\Mike\source\repos\Exercicio herança e polimorfismo\bin\Debug\Exercicio herança e polimorfismo.exe
+C:\Users\Mike\source\repos\Exercicio herança e polimorfismo\bin\Debug\Exercicio herança e polimorfismo.pdb
+C:\Users\Mike\source\repos\Exercicio herança e polimorfismo\obj\Debug\Exercicio herança e polimorfismo.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\Exercicio herança e polimorfismo\obj\Debug\Exercicio herança e polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Exercicio herança e polimorfismo\obj\Debug\Exercicio herança e polimorfismo.exe
+C:\Users\Mike\source\repos\Exercicio herança e polimorfismo\obj\Debug\Exercicio herança e polimorfismo.pdb
